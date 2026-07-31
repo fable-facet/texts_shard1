@@ -1,0 +1,20 @@
+[_`article #1090662013`]:
+{   attrs:
+    {   [`data-url`]: "fable-facet/texts_shard1@main/69428882/1090662013",
+        [`data-image`]: "sand_crawler.jpg",
+        [`data-author`]: "69428882",
+        [`data-code`]: "1090662013",
+        [`data-created`]: "1783202334"
+    },
+    [_`details`]:
+    {   [_`summary`]: `In a post-apocalyptic desert, dusters fight monsters and 
+            mutants while search for the legend of the Untainted Heart, a machine that could
+            render humans immune to radiation
+        `
+    },
+    [_`span.tags`]: `post-apocalyptic,giant animals,mutants,misterious woman,
+        sci-fi,scifi,desert,world desert,radiation
+    `,
+    [_`span.author`]: `Fable Facet`,
+    textContent: "Untainted Heart"
+}
