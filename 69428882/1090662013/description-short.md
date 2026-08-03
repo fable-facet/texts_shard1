@@ -21,11 +21,11 @@ Not much to do without it. Then you remember: you took it off last time and left
 Relieved, your thoughts return to the Untainted Heart. Some say it's a fool's legend. But this is what keeps dusters alive, chasing that dream. It justifies the risks of fighting giant animals and mutants. Thinking about the [howlers](howlers.md) - the reminder of what radiation can do to men - always makes you shiver.<br/>
 </main>
 
-<blockquote class="dynamic_gender">
-...  you see a group of howlers sprinting ... and then you see *her*{: .gender_element }.<br/>
-A *woman*{: .gender_element }. Running off.<br/>
+<blockquote>
+...  you see a group of howlers sprinting ... and then you see *her*{: .deuteragonist_pronoun }.<br/>
+A *woman*{: .deuteragonist_gender }. Running off.<br/>
 ... pain hits you like a burden:
-*she*{: .gender_element } has no suit. <br/>
+*she*{: .deuteragonist_pronoun } has no suit. <br/>
 ... Weeks of radiation agony before the unavoidable end.<br/>
 You have to do something. <br/>
 </blockquote>
