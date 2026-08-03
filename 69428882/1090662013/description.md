@@ -34,14 +34,14 @@ Relieved, your thoughts return to the Untainted Heart for the thousandth time. S
 -Well, who knows? You may be closer than we think.<br/>
 </main>
 
-<blockquote class="dynamic_gender">
+<blockquote>
 ... with the scope, you see a group of howlers sprinting - unusual, but not unseen. You start changing the course to
-avoid them... and then you see *her*{: .gender_element}.<br/>
-A *woman*{: .gender_element}. Running off.<br/>
-*She*{: .gender_element} is the cause of the howlers' frenzy. Then something almost like pain
+avoid them... and then you see *her*{: .deuteragonist_pronoun}.<br/>
+A *woman*{: .deuteragonist_gender}. Running off.<br/>
+*She*{: .deuteragonist_pronoun} is the cause of the howlers' frenzy. Then something almost like pain
 washes through you, starting in your head and falling through your shoulders like a burden:
-*she*{: .gender_element} has no suit. <br/>
-You almost decide to let the howlers take *her*{: .gender_element}. It would be quick, a mercy 
+*she*{: .deuteragonist_pronoun} has no suit. <br/>
+You almost decide to let the howlers take *her*{: .deuteragonist_pronoun}. It would be quick, a mercy 
 compared to the weeks of rad agony before the unavoidable end.<br/>
 But you cannot force yourself to do it. You have to do something. You ready the sand cannons, adjust the course... to
 drive directly into them.<br/>
