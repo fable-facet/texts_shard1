@@ -18,7 +18,7 @@ config_form:
     placeholder: "female"
 ---
 
-<main class="gender_neutral">
+<main class="ipsis_litteris">
 In a few hours, you’ll be back in the Burrow. 'No, stop it. Focus.' Dusters have a superstition about this: you relax when the mission is almost complete, and that’s when you make mistakes.
 
 Sleepiness doesn’t help. You slap your own face and go to make some tea. The scorching sun outside would certainly help keep you awake, but the sand crawler’s windows are made of dark, heavy glass.
